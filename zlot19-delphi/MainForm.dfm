@@ -23,7 +23,7 @@ object FMainForm: TFMainForm
     Top = 8
     Width = 847
     Height = 641
-    ActivePage = TabSheet2
+    ActivePage = TabSheet1
     Anchors = [akLeft, akTop, akRight, akBottom]
     TabOrder = 0
     object TabSheet1: TTabSheet
