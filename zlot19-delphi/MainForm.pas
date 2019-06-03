@@ -54,6 +54,7 @@ type
     sortCombo: TComboBox;
     bestPinnacleButton: TButton;
     bestOddsportalButton: TButton;
+    Label2: TLabel;
     procedure quizButtonClick(Sender: TObject);
     procedure iif1ButtonClick(Sender: TObject);
     procedure iif2ButtonClick(Sender: TObject);

@@ -190,6 +190,13 @@ object FMainForm: TFMainForm
         Alignment = taRightJustify
         Caption = 'Sortowanie:'
       end
+      object Label2: TLabel
+        Left = 272
+        Top = 19
+        Width = 346
+        Height = 16
+        Caption = '(poszukaj pliku ekstraklasa.csv w katalogu projektu)'
+      end
       object grid: TStringGrid
         Left = 3
         Top = 256
@@ -261,7 +268,7 @@ object FMainForm: TFMainForm
     Filter = 'Pliki CSV (*.csv)|*.csv|Wszystkie pliki (*.*)|*.*'
     Options = [ofHideReadOnly, ofPathMustExist, ofFileMustExist, ofEnableSizing]
     Title = 'Wybierz plik z wynikami Ekstraklasy'
-    Left = 276
-    Top = 51
+    Left = 156
+    Top = 91
   end
 end
