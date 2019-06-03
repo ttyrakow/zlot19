@@ -1,0 +1,9 @@
+.vscode/
+__history
+__recovery
+zlot19-delphi/Win32/
+zlot19-generics/Win32/
+*.dproj.local
+*.identcache
+*.dsk
+*.~*
