@@ -432,28 +432,6 @@ begin
   );
 end;
 
-//var
-//  p: TProc<Integer>;
-//procedure setProc(toAdd: Integer);
-//begin
-//  p := Procedure(it: Integer)
-//       begin
-//         writeln(toAdd + it);
-//       end;
-//end;
-//procedure invokeProc(it: Integer);
-//begin
-//  p(it);
-//end;
-//procedure p2;
-//begin
-//  setProc(10);
-//  //...
-//  invokeProc(20); // stdout: 30
-//  invokeProc(2); // stdout: 12
-//end;
-
-
 procedure log(const s: string);
 begin
   if Assigned(FMainForm) then
