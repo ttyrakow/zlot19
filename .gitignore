@@ -7,3 +7,5 @@ zlot19-generics/Win32/
 *.identcache
 *.dsk
 *.~*
+zlot19-delphi/*.stat
+zlot19-generics/*.stat
