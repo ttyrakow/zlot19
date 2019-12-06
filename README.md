@@ -1,5 +1,6 @@
 # Zlot Programistów Delphi ' 2019
 Kod źródłowy przykładów do wykładu **Nowoczesny język Delphi**.
+Nagroda za najlepszy wykład.
 
 ## zlot19-delphi
 
